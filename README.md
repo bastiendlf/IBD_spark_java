@@ -10,7 +10,7 @@
  3) hdfs dfs put big_access_v2.csv /input
  
 
-##To submit yout Java code to Spark in the Docker containers:
+## To submit yout Java code to Spark in the Docker containers:
 
 ### Package your code and sand it to your nodemaster container
  1) mvn package
